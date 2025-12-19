@@ -2,6 +2,11 @@
 Changelog for package urdfdom
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+6.0.0 (2025-12-19)
+------------------
+* Read cmake version from package.xml (`#236 <https://github.com/ros/urdfdom/issues/236>`_)
+* Contributors: Steve Peters
+
 5.0.4 (2025-12-08)
 ------------------
 * Revert "Quaternion in urdf (PR123 new attempt) (#231)" (`#231 <https://github.com/ros/urdfdom/issues/231>`_)
