@@ -12,12 +12,12 @@ included in this repo but instead is added in during the ROS release process. To
 file into this repository using the following format. Be sure to replace the ALLCAPS words with the appropriate terms:
 
 ```
-wget https://raw.github.com/ros-gbp/urdfdom-release/debian/ROS_DISTRO/UBUNTU_DISTRO/urdfdom/package.xml
+wget https://raw.github.com/Unity-Billal-mesloub/urdfdom-release/debian/ROS_DISTRO/UBUNTU_DISTRO/urdfdom/package.xml
 ```
 
 For example:
 ```
-wget https://raw.github.com/ros-gbp/urdfdom-release/debian/hydro/precise/urdfdom/package.xml
+wget https://raw.github.com/Unity-Billal-mesloub/urdfdom-release/debian/hydro/precise/urdfdom/package.xml
 ```
 
 ### URDF Versioning
